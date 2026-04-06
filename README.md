@@ -29,8 +29,6 @@ Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e es
 
 ### 🛠️ Habilidades e Ferramentas
 
-Para deixar as tecnologias uma ao lado da outra com ícones arredondados, utilizei o conjunto abaixo:
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,aws,docker,git,githubactions,linux,maven,gradle,postman,redhat" />
