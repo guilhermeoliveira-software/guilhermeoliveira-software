@@ -50,7 +50,6 @@ Com uma trajetória iniciada em suporte técnico, desenvolvi uma visão prática
 
 
 
-
 💡 Projetos em Destaque
 
 Confira meus projetos no GitHub e veja minhas habilidades em ação:
@@ -94,3 +93,4 @@ Confira meus projetos no GitHub e veja minhas habilidades em ação:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=guilhermeoliveira-software&color=blue" alt="Contador de Visitas"/>
 </div>
+
