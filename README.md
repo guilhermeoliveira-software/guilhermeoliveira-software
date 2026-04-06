@@ -27,24 +27,8 @@ Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e es
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,spring cloud,hibernate,postgres,mongodb,docker,git,githubactions,maven,gradle,swagger,postman,sonarqube,junit, mockito, aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,githubactions,maven,gradle,swagger,postman,sonarqube,junit,aws" />
   </a>
 </div>
 
 ---
-
-### 💡 Projetos em Destaque
-
-Confira meus principais repositórios e implementações de APIs REST e Microsserviços:
-
-<div align="center">
-  <a href="https://github.com/guilhermeoliveira-software" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Projetos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos no GitHub"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermeoliveira-software&color=blue&style=flat-square" alt="Contador de Visitas"/>
-</div>
