@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/guilhermeoliveira-software/guilhermeoliveira-software/blob/main/banner.png?raw=true" alt="Banner de Boas-Vindas" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/guilhermeoliveira-software/guilhermeoliveira-software@main/banner.png" alt="Banner de Boas-Vindas" width="100%"/>
 </div>
 
 <div align="center">
@@ -37,23 +37,15 @@ Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e es
 
 ---
 
-### 💡 Projetos em Destaque
-
-Confira meus principais repositórios e implementações:
-
-<div align="center">
-  <a href="https://github.com/guilhermeoliveira-software" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Projetos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos no GitHub"/>
-  </a>
-</div>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliveira-software&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas Gerais do Guilherme"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoliveira-software&layout=compact&theme=radical&hide_border=true" alt="Linguagens Mais Usadas pelo Guilherme"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliveira-software&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoliveira-software&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeoliveira-software&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
