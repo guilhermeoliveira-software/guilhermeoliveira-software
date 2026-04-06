@@ -31,7 +31,7 @@ Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e es
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,aws,docker,git,githubactions,linux,maven,gradle,postman,redhat" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,aws,docker,git,githubactions,maven,gradle,postman,sonarqube" />
   </a>
 </div>
 
