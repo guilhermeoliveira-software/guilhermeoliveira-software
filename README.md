@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Olá, eu sou o Guilherme Costa Oliveira 👋</h1>
+  <h1>Olá, eu sou o Guilherme👋</h1>
   <h3>Desenvolvedor de Software | Backend | Java | Spring Boot</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/guilherme-costa-oliveiraa" target="_blank">
