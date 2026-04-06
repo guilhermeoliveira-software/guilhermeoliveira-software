@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/guilhermeoliveira-software/guilhermeoliveira-software@main/banner.png" alt="Banner de Boas-Vindas" width="100%"/>
-</div>
-
-<div align="center">
   <h1>Olá, eu sou o Guilherme ☕</h1>
-  <h3>Desenvolvedor de Software | Backend | Java | Spring Boot</h3>
+  <h3>Desenvolvedor de Software | Backend | Java | Spring Boot | Microserviços| AWS | Docker</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/guilherme-costa-oliveiraa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,7 +18,7 @@
 Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e escaláveis com **Java** e **Spring Boot**. Possuo experiência em arquitetura de microsserviços, padrões de segurança (**JWT/Spring Security**) e práticas de Clean Code. Atualmente, aprofundo meus conhecimentos em infraestrutura na nuvem com **AWS**.
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro (Prev. 2026).
-* 🌱 Foco atual: Microserviços, Cloud Computing e Mensageria.
+* 🌱 Foco atual: Microsserviços, Cloud Computing e Mensageria.
 * ⚡ Buscando minha primeira oportunidade como **Desenvolvedor Java Júnior**.
 
 ---
@@ -31,21 +27,20 @@ Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e es
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,aws,docker,git,githubactions,maven,gradle,postman,sonarqube" />
+    <img src="https://skillicons.dev/icons?i=java,spring,spring cloud,hibernate,postgres,mongodb,docker,git,githubactions,maven,gradle,swagger,postman,sonarqube,junit, mockito, aws" />
   </a>
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 💡 Projetos em Destaque
+
+Confira meus principais repositórios e implementações de APIs REST e Microsserviços:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeoliveira-software&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeoliveira-software&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeoliveira-software&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/guilhermeoliveira-software" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Projetos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos no GitHub"/>
+  </a>
 </div>
 
 ---
