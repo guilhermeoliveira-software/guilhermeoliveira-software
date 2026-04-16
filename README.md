@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Backend em formação, dedicado a criar aplicações robustas e escaláveis com **Java** e **Spring Boot**. Possuo experiência em arquitetura de microsserviços, padrões de segurança (**JWT/Spring Security**) e práticas de Clean Code. Atualmente, aprofundo meus conhecimentos em infraestrutura na nuvem com **AWS**.
+Desenvolvedor Backend dedicado a criar aplicações robustas e escaláveis com **Java** e **Spring Boot**. Possuo experiência em arquitetura de microsserviços, padrões de segurança (**JWT/Spring Security**) e práticas de Clean Code. Atualmente, aprofundo meus conhecimentos em infraestrutura na nuvem com **AWS**.
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro (Prev. 2026).
 * 🌱 Foco atual: Microsserviços, Cloud Computing e Mensageria.
