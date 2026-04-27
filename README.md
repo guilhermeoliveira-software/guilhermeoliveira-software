@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Guilherme ☕</h1>
-  <h3>Desenvolvedor de Software | Backend | Java | Spring Boot | Microserviços| AWS | Docker</h3>
+  <h3>Desenvolvedor de Software | Backend | Java | Spring Boot | Microserviços</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/guilherme-costa-oliveiraa" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -15,10 +15,10 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Backend dedicado a criar aplicações robustas e escaláveis com **Java** e **Spring Boot**. Possuo experiência em arquitetura de microsserviços, padrões de segurança (**JWT/Spring Security**) e práticas de Clean Code. Atualmente, aprofundo meus conhecimentos em infraestrutura na nuvem com **AWS**.
+Desenvolvedor Backend dedicado a criar aplicações robustas e escaláveis com **Java** e **Spring Boot**. Possuo experiência em arquitetura de microsserviços, padrões de segurança (**JWT/Spring Security**) e práticas de Clean Code. Atualmente, aprofundo meus conhecimentos em Deploy na nuvem com **VPS**.
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro (Prev. 2026).
-* 🌱 Foco atual: Microsserviços, Cloud Computing e Mensageria.
+* 🌱 Foco atual: Microsserviços, Spring Boot e Deploy.
 * ⚡ Buscando minha primeira oportunidade como **Desenvolvedor Java Júnior**.
 
 ---
