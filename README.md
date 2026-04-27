@@ -27,6 +27,6 @@ Desenvolvedor Backend dedicado a criar aplicações robustas e escaláveis com *
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,githubactions,maven,gradle,postman,idea,vscode,railway" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,git,githubactions,maven,gradle,postman,idea,vscode,deploy" />
   </a>
 </div>
